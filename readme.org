@@ -12,6 +12,8 @@
 
 ** Compilation
 
+   On the RP, inside the repo after cloning and choosing the right branch:
+
    #+BEGIN_SRC sh
    mkdir build
    cd build
@@ -19,4 +21,4 @@
    make
    #+END_SRC
 
-   Have a look at the [[fill this in][MaRCoS wiki]].
+   Have a look at the [[https://github.com/vnegnev/marcos_extras/wiki][MaRCoS wiki]] for additional information.
